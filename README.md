@@ -19,7 +19,7 @@ I've mainly worked on :
 
 #### 📫 Contact me
 You can send me message with :<br>
-[![email : joachimlf@pm.me](https://img.shields.io/badge/-joachimlf%40pm%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joachimlf@pm.me)
+[![email : joachimlf@redgl0w.net](https://img.shields.io/badge/-joachimlf%40redgl0w%2Enet-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joachimlf@redgl0w.net)
 [![twitter : @Gl0wRed](https://img.shields.io/badge/-%40Gl0wRed-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gl0wRed)
 ![discord : redgl0w#6308](https://img.shields.io/badge/-Redgl0w%236308-000000?style=for-the-badge&logo=discord&logoColor=white)
 
