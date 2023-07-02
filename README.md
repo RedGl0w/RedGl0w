@@ -2,7 +2,7 @@
 My name is **Joachim (RedGl0w) Le Fournis**.
 
 #### 📖 School
-I'm a year 12 pupil in France. I'm learning Maths, Chemical Physics and NSI (A.K.A. computer science).
+I'm a MPI student in France
 
 #### 🖥️ Main projects
 I've mainly worked on : 
